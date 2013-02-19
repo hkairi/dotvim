@@ -1,0 +1,10 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =8
+let g:netrw_dirhist_1='/home/hassane/applications/AppEngine_Applications'
+let g:netrw_dirhist_2='/home/hassane/applications/AppEngine_Applications/foot'
+let g:netrw_dirhist_3='/home/hassane/applications/Django_apps/valeur_plus'
+let g:netrw_dirhist_4='/home/hassane/applications/Ruby_apps/DRUG/8-dec-2012'
+let g:netrw_dirhist_5='/home/hassane/applications/Sinatra_apps/cuisines'
+let g:netrw_dirhist_6='/home/hassane/applications/Ruby_apps/thies'
+let g:netrw_dirhist_7='/home/hassane/applications/RailsApplications/thies'
+let g:netrw_dirhist_8='/home/hassane/applications/Django_apps/valeur_plus'
